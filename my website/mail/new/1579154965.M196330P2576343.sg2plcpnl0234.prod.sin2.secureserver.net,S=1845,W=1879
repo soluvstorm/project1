@@ -1,0 +1,34 @@
+Return-Path: <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>
+Delivered-To: aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net
+Received: from sg2plcpnl0234.prod.sin2.secureserver.net
+	by sg2plcpnl0234.prod.sin2.secureserver.net with LMTP
+	id 07bJCBX+H17XTycA38yeJw
+	(envelope-from <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>)
+	for <aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net>; Wed, 15 Jan 2020 23:09:25 -0700
+Return-path: <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>
+Envelope-to: aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net
+Delivery-date: Wed, 15 Jan 2020 23:09:25 -0700
+Received: from root by sg2plcpnl0234.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>)
+	id 1iryLM-00AoDq-V8
+	for aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net; Wed, 15 Jan 2020 23:09:25 -0700
+To: aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress plugin Yoast SEO 12.8.1 now available
+Date: Wed, 15 Jan 2020 23:09:24 -0700
+From: noreply@sg2plcpnl0234.prod.sin2.secureserver.net
+Message-ID: <b8d9aa2f005b36ec96f3d5d0c45aae79@sg2plcpnl0234.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.49
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+An update to Yoast SEO 12.8.1 is now available for the WordPress installations you are managing using Installatron. The following can be updated:
+
+- http://gamemaking24h.com
+
+
+Login to your web hosting control panel and navigate to the Installatron tool to update your installed applications.
+
+End of report.
+

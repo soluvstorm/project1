@@ -1,0 +1,37 @@
+Return-Path: <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>
+Delivered-To: aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net
+Received: from sg2plcpnl0234.prod.sin2.secureserver.net
+	by sg2plcpnl0234.prod.sin2.secureserver.net with LMTP
+	id qKbqIH239V2NPyUA38yeJw
+	(envelope-from <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>)
+	for <aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net>; Sat, 14 Dec 2019 21:33:01 -0700
+Return-path: <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>
+Envelope-to: aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net
+Delivery-date: Sat, 14 Dec 2019 21:33:01 -0700
+Received: from root by sg2plcpnl0234.prod.sin2.secureserver.net with local (Exim 4.92)
+	(envelope-from <noreply@sg2plcpnl0234.prod.sin2.secureserver.net>)
+	id 1igLaX-00AFyr-DZ
+	for aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net; Sat, 14 Dec 2019 21:33:01 -0700
+To: aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net
+Subject: [Installatron] WordPress installed
+Date: Sat, 14 Dec 2019 21:33:01 -0700
+From: noreply@sg2plcpnl0234.prod.sin2.secureserver.net
+Message-ID: <bf14f0f4ea6f156bf71f16c7a61ed01d@sg2plcpnl0234.prod.sin2.secureserver.net>
+X-Mailer: Installatron Plugin 9.1.49
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+This is an automated email from Installatron. To unsubscribe from these emails or to change notification settings, login to your web hosting control panel, navigate to the Installatron tool, and select the installed applications you wish to modify.
+
+WordPress v5.3.1 has been installed to:
+
+http://gamemaking24h.com
+http://gamemaking24h.com/wp-admin
+
+Administrator Username: nvhien12a12
+Administrator Email: aqlzw0k0au6m@sg2plcpnl0234.prod.sin2.secureserver.net
+
+Login to your web hosting control panel and navigate to the Installatron tool to manage this install.
+
+End of report.
+
