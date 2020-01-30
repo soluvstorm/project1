@@ -1,0 +1,49 @@
+--- 
+files: 
+  certificate: 
+    gamemaking24h_com_e36df_f91bd_1607920331_f268d284611cc138a2eacd4cf4372365: 
+      created: '1576384331'
+      domains: 
+        - gamemaking24h.com
+        - mail.gamemaking24h.com
+        - www.gamemaking24h.com
+        - webmail.gamemaking24h.com
+        - cpanel.gamemaking24h.com
+        - webdisk.gamemaking24h.com
+        - autodiscover.gamemaking24h.com
+      friendly_name: Cert for “gamemaking24h.com”
+      id: gamemaking24h_com_e36df_f91bd_1607920331_f268d284611cc138a2eacd4cf4372365
+      is_self_signed: 1
+      issuer.commonName: gamemaking24h.com
+      issuer.organizationName: ~
+      modulus: e36df0ea83ee4ded5076734362c8a93d84539a527aac216a834d9155783d0d287ced26d3b0412a8623a4baf91376a7ffa04ce0485dbf92a9a85ff644e05f1fff0676ae73d688b0fdff6b12766869a293fa51ca7e020f38c2268d1417edacf990299f7b418317b489d37a533a0e212bd5798d2b6815bdfaabf52a0690f214648dce418d2448447034576ce6c0bf138ffd9806ce8b3e371fcc6ba8c725d5f93c7a4764f6b269d1f0591332067272fa1218f84911ae994dd720f4d27de8cd60b07d312d050d4c1f62ac6e674f61373d05bcc63d848b67b756c00ea4935cf1ae2b580f8ef8600c15f91872f1e907d533393bbfc872cdf1bf0d2475c0b7da425f91bd
+      modulus_length: 2048
+      not_after: '1607920331'
+      not_before: '1576384331'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: gamemaking24h.com
+      validation_type: ~
+  key: 
+    e36df_f91bd_1eb7df1a7cd740c359f204acfae08295: 
+      created: '1576384331'
+      friendly_name: Key for “gamemaking24h.com”
+      id: e36df_f91bd_1eb7df1a7cd740c359f204acfae08295
+      modulus: e36df0ea83ee4ded5076734362c8a93d84539a527aac216a834d9155783d0d287ced26d3b0412a8623a4baf91376a7ffa04ce0485dbf92a9a85ff644e05f1fff0676ae73d688b0fdff6b12766869a293fa51ca7e020f38c2268d1417edacf990299f7b418317b489d37a533a0e212bd5798d2b6815bdfaabf52a0690f214648dce418d2448447034576ce6c0bf138ffd9806ce8b3e371fcc6ba8c725d5f93c7a4764f6b269d1f0591332067272fa1218f84911ae994dd720f4d27de8cd60b07d312d050d4c1f62ac6e674f61373d05bcc63d848b67b756c00ea4935cf1ae2b580f8ef8600c15f91872f1e907d533393bbfc872cdf1bf0d2475c0b7da425f91bd
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      e36df0ea83ee4ded5076734362c8a93d84539a527aac216a834d9155783d0d287ced26d3b0412a8623a4baf91376a7ffa04ce0485dbf92a9a85ff644e05f1fff0676ae73d688b0fdff6b12766869a293fa51ca7e020f38c2268d1417edacf990299f7b418317b489d37a533a0e212bd5798d2b6815bdfaabf52a0690f214648dce418d2448447034576ce6c0bf138ffd9806ce8b3e371fcc6ba8c725d5f93c7a4764f6b269d1f0591332067272fa1218f84911ae994dd720f4d27de8cd60b07d312d050d4c1f62ac6e674f61373d05bcc63d848b67b756c00ea4935cf1ae2b580f8ef8600c15f91872f1e907d533393bbfc872cdf1bf0d2475c0b7da425f91bd: 
+        gamemaking24h_com_e36df_f91bd_1607920331_f268d284611cc138a2eacd4cf4372365: ~
+    subject.commonName: 
+      gamemaking24h.com: 
+        gamemaking24h_com_e36df_f91bd_1607920331_f268d284611cc138a2eacd4cf4372365: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “gamemaking24h.com”: gamemaking24h_com_e36df_f91bd_1607920331_f268d284611cc138a2eacd4cf4372365
+  key: 
+    friendly_name: 
+      Key for “gamemaking24h.com”: e36df_f91bd_1eb7df1a7cd740c359f204acfae08295
+    modulus: 
+      e36df0ea83ee4ded5076734362c8a93d84539a527aac216a834d9155783d0d287ced26d3b0412a8623a4baf91376a7ffa04ce0485dbf92a9a85ff644e05f1fff0676ae73d688b0fdff6b12766869a293fa51ca7e020f38c2268d1417edacf990299f7b418317b489d37a533a0e212bd5798d2b6815bdfaabf52a0690f214648dce418d2448447034576ce6c0bf138ffd9806ce8b3e371fcc6ba8c725d5f93c7a4764f6b269d1f0591332067272fa1218f84911ae994dd720f4d27de8cd60b07d312d050d4c1f62ac6e674f61373d05bcc63d848b67b756c00ea4935cf1ae2b580f8ef8600c15f91872f1e907d533393bbfc872cdf1bf0d2475c0b7da425f91bd: e36df_f91bd_1eb7df1a7cd740c359f204acfae08295

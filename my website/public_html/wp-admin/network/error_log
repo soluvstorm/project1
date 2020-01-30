@@ -1,0 +1,4 @@
+[19-Dec-2019 21:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_current_screen() in /home/aqlzw0k0au6m/public_html/wp-admin/network/upgrade.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/aqlzw0k0au6m/public_html/wp-admin/network/upgrade.php on line 18
